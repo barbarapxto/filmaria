@@ -28,6 +28,12 @@ Projeto criado no curso SujeitoProgramador, que faz requisição para a API do S
   npm install git+https://github.com/barbarapxto/filmaria.git
 ```
 
+ou, simplesmente,
+
+```bash
+  npm install
+```
+
 ## Demonstração
 
 Você pode verificar o projeto aqui: https://barbarapxto-filmaria.netlify.app
